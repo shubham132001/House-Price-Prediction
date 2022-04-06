@@ -1,0 +1,2 @@
+# House-Price-Prediction
+Determine the price of the house and how the price of the house is related with the different features and the locality in which it is located. The feature can include the number of the bedrooms and number of the bathrooms in the house and is there waterfront next to the house, at what location the house is located, no. of the floors present in the house. Also test the accuracy of the result prediction using the differnet test - Mean squared error test and the R^2 test.
